@@ -42,5 +42,5 @@ Scenariusze testów:
 1. Akceptacyjny:
 - Przeprowadzono symulację użytkownika, program nie wykazał błędu. Otrzymałem komunikat Ran 1 test in 29.430s OK
 2. Jednostkowy:
-- Przeprowadziłem testy jednostkowe, których zadaniem było sprawdzenie funkcji, a konretnie zmiennej takiej jak czas ogrzewania
+- Przeprowadziłem testy jednostkowe, których zadaniem było sprawdzenie funkcji, a konkretnie zmienną dotyczącą czasu ogrzewania
   Testy zostały przeprowadzone dla każdej kanapki, gdyby czas się nie zgadzał, mogłoby to skutkować przypaleniem kanapek
