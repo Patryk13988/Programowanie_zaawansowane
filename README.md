@@ -44,3 +44,5 @@ Scenariusze testów:
 2. Jednostkowy:
 - Przeprowadziłem testy jednostkowe, których zadaniem było sprawdzenie funkcji, a konkretnie zmienną dotyczącą czasu ogrzewania
   Testy zostały przeprowadzone dla każdej kanapki, gdyby czas się nie zgadzał, mogłoby to skutkować przypaleniem kanapek
+  
+Ostateczny rezultat: Ran 6 tests in 29.841s OK
